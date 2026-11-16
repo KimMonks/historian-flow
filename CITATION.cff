@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the thesis it is based on."
+title: "historian-flow"
+authors:
+  - family-names: Monks
+    given-names: Kimberley
+license: MIT
+preferred-citation:
+  type: thesis
+  title: "Cyber Intrusion Detection in Port Bulk Handling Operations"
+  authors:
+    - family-names: Monks
+      given-names: Kimberley
+  institution:
+    name: "University of South Australia"
+  year: 2020
+  thesis-type: "Master of Computer and Information Science (Research Thesis)"
