@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+output/
+results/
+.venv/
+# never commit real plant extracts
+data/*
+!data/synthetic_port.csv
+!data/synthetic_port_truth.csv
